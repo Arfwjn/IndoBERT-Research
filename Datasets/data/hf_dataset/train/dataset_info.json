@@ -9,7 +9,6 @@
     "label": {
       "names": [
         "negatif",
-        "netral",
         "positif"
       ],
       "_type": "ClassLabel"
